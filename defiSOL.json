@@ -1,9 +1,0 @@
-{
-  "name": "Tune Staked SOL",
-  "symbol": "defiSOL",
-  "description": "MEV-Powered Liquid Staking Token",
-  "image": "https://storage.googleapis.com/token-metadata/JitoSOL-256.png",
-  "twitter": "https://twitter.com/jito_sol",
-  "coingeckoId": "jito-staked-sol",
-  "website": "https://jito.network"
-}
